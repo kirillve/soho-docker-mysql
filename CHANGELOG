@@ -1,0 +1,2 @@
+v x.x
+  - mysql and mariadb with lib_mysqludf added (kv) 2020-04-22
